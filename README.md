@@ -37,12 +37,16 @@ Team Leadership · Problem Solving · Responsive Design · Cross-Device Optimiza
 
 ## 💼 Experience
 
-- **Full-Stack Developer Intern** @ Weberlly _(Feb 2025 – May 2025)_:  
-  Architected and developed a full-stack web scraping solution, built both backend (Python) and frontend (Next.js/TypeScript), and designed the company website.
+Software Developer (Junior Level) @ Watsons Philippines (via OLVRO Co. Ltd)
+(Aug 2025 – Present)
+Working on an enterprise HR Operations (HRO) Dashboard supporting 13,000+ employees using Next.js, TypeScript, Tailwind CSS on the frontend and C# (.NET Core) with SQL Server on the backend.
+Developed secure RESTful APIs, SQL Server stored procedures, and scheduled jobs, and supported data migration and system integration with Oracle HCM and Know App. Actively involved in UAT/SIT and production support for HR systems.
 
-- **Freelance Software & Web Developer** _(2024 – Present)_:  
-  End-to-end project development for clients, from requirements gathering to deployment and maintenance, with a focus on performance and client satisfaction.
+Full-Stack Developer Intern @ Weberlly (Feb 2025 – May 2025)
+Architected and developed a full-stack web scraping solution, built both backend services (Python) and frontend dashboards (Next.js/TypeScript), and designed the company website.
 
+Freelance Software & Web Developer (2024 – Present)
+Delivered end-to-end web and software solutions for clients, from requirements gathering to deployment and maintenance, with a focus on performance, scalability, and client satisfaction.
 ---
 
 ## 🚀 Notable Projects
