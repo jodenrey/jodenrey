@@ -34,7 +34,7 @@ Git · GitHub · Vercel · Figma · Postman · Swagger
 
 ## 💼 Experience
 
-**Software Developer (Junior Level)** — **Watsons Philippines**
+**Software Developer** — **Watsons Philippines**
 _Aug 2025 – Present_  
 Working on an enterprise **HR Operations Dashboard** supporting **13,000+ employees**.  
 Tech: **Next.js, TypeScript, Tailwind CSS, C# (.NET Core), SQL Server**  
