@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jodenrey-blue?logo=linkedin)](https://www.linkedin.com/in/jodenrey/)
 [![GitHub](https://img.shields.io/badge/GitHub-jodenrey-181717?logo=github)](https://github.com/jodenrey)
-[![Website](https://img.shields.io/badge/Portfolio-jodenrey.tech-3b82f6?logo=google-chrome)](https://jodenrey.tech/](https://jodenrey.vercel.app/))
+[![Website](https://img.shields.io/badge/Portfolio-jodenrey.vercel.app-3b82f6?logo=google-chrome)](https://jodenrey.vercel.app/)
 
 ---
 
