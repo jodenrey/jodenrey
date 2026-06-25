@@ -8,7 +8,7 @@ I'm a Software Engineer from the Philippines with experience building scalable w
 
 ## 🚀 About Me
 
-* 💻 Software Engineer specializing in **C#, .NET, React, Next.js, and TypeScript**
+* 💻 Software Engineer specializing in **C#, .NET, Node.js, React, Next.js, and TypeScript**
 * ☁️ Experienced with **AWS, Docker, CI/CD, and cloud deployments**
 * 🔗 Built secure **REST APIs, ETL pipelines, and enterprise integrations**
 * 🤖 Passionate about **AI applications, automation, and SaaS products**
