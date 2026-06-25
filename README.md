@@ -1,88 +1,87 @@
-# Hi, I'm Joseph Dennis Reyes 👋
+# Hi there, I'm Joseph Dennis Reyes 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jodenrey-blue?logo=linkedin)](https://www.linkedin.com/in/jodenrey/)
-[![GitHub](https://img.shields.io/badge/GitHub-jodenrey-181717?logo=github)](https://github.com/jodenrey)
-[![Website](https://img.shields.io/badge/Portfolio-jodenrey.vercel.app-3b82f6?logo=google-chrome)](https://jodenrey.vercel.app/)
+### Software Engineer | Full-Stack Developer | Cloud & AI Enthusiast
+
+I'm a Software Engineer from the Philippines with experience building scalable web applications, enterprise backend services, and AI-powered platforms. I enjoy solving complex problems and delivering production-ready systems using modern technologies.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a **Software Engineer** passionate about building scalable web applications and AI-powered platforms. I enjoy working across the full development lifecycle—from system design to deployment—using modern technologies, clean architecture, and collaborative development practices.
-
-- 🎓 **Cum Laude**, B.S. in Computer Science  
-- 🏆 **Top 20 Finalist** at AppCon 2024 for **DesignGenius**, an AI-powered interior design platform  
-- 💡 Interested in backend systems, enterprise applications, and AI-enabled products
+* 💻 Software Engineer specializing in **C#, .NET, React, Next.js, and TypeScript**
+* ☁️ Experienced with **AWS, Docker, CI/CD, and cloud deployments**
+* 🔗 Built secure **REST APIs, ETL pipelines, and enterprise integrations**
+* 🤖 Passionate about **AI applications, automation, and SaaS products**
+* 📊 Experienced in designing systems handling **13,000+ records and large-scale data workflows**
+* 🌱 Currently exploring **System Design, Distributed Systems, and AI Engineering**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**  
-HTML · CSS · Tailwind CSS · JavaScript · TypeScript · React.js · Next.js
+### Languages
 
-**Backend**  
-C# · .NET Core · Python · Flask · Node.js · PHP · Java · SQL
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
-**Databases**  
-SQL Server · PostgreSQL · MySQL · MongoDB · Firebase
+### Frontend
 
-**Tools & Platforms**  
-Git · GitHub · Vercel · Figma · Postman · Swagger
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
 
----
+### Backend & Databases
 
-## 💼 Experience
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
 
-**Software Developer** — **Watsons Philippines**
-_Aug 2025 – Present_  
-Working on an enterprise **HR Operations Dashboard** supporting **13,000+ employees**.  
-Tech: **Next.js, TypeScript, Tailwind CSS, C# (.NET Core), SQL Server**  
-- Developed secure RESTful APIs and SQL Server stored procedures  
-- Built scheduled jobs and supported production data workflows  
-- Assisted with system integration to **Oracle HCM** and **Know App**  
-- Participated in **UAT/SIT** and production support
+### Cloud & DevOps
 
-**Full-Stack Developer Intern** — **Weberlly**  
-_Feb 2025 – May 2025_  
-- Built a full-stack web scraping solution (Python + Next.js)  
-- Developed dashboards to visualize and manage scraped data  
-- Designed and deployed the company website
-
-**Freelance Software & Web Developer**  
-_2024 – Present_  
-- Delivered end-to-end web solutions from requirements to deployment  
-- Focused on performance, usability, and maintainable code
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 
 ---
 
-## 🚀 Selected Projects
+## 🏆 Featured Project
 
-### DesignGenius
-AI-powered interior design SaaS platform  
-Tech: Next.js · TypeScript · Tailwind CSS · PostgreSQL · Stripe · Replicate AI  
-- Generates interior design concepts from photos or sketches  
-- Average AI render time: **8–12 seconds**  
-- **Top 20 Finalist** — AppCon 2024
+### VAssist AI
 
-### Facial Recognition Attendance System
-School attendance system with biometric verification  
-Tech: FastAPI · Python · Next.js · TypeScript · PostgreSQL  
-- Facial recognition accuracy of **97%+** using InsightFace & OpenCV  
-- Role-based dashboards, real-time attendance, JWT authentication
+A production SaaS platform with **18 interconnected modules**, including CRM, invoicing, tasks, automations, and AI chat.
 
-### E-Doc Management System
-Medical appointment and document management platform  
-Tech: PHP · HTML · CSS · MySQL  
-- Role-based portals and dynamic scheduling  
-- PDF generation and appointment tracking
+**Highlights**
+
+* Multi-tenant architecture
+* Role-based access control (RBAC)
+* Stripe subscription billing
+* Anthropic AI integration
+* Real-time state management
+* Production deployment and monitoring
+
+**Tech Stack:** Next.js, React, TypeScript, Supabase, Stripe, Zustand, Anthropic API
+https://vassist-ai.vercel.app/
+---
+
+## 📈 GitHub Stats
+
+![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jodenrey\&show_icons=true\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jodenrey\&layout=compact\&hide_border=true)
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-- **Email:** josephdennisreyes@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/jodenrey/  
-- **GitHub:** https://github.com/jodenrey  
+* 📧 [josephdennisreyes@gmail.com](mailto:josephdennisreyes@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/jodenrey
+* 🐙 GitHub: https://github.com/jodenrey
 
 ---
+
+> “Build things that solve real problems, automate repetitive work, and scale gracefully.”
